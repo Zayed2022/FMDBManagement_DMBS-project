@@ -19,7 +19,7 @@ Required Python packages (see requirements.txt)
 
 ## Installation
 ### Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Zayed2022/FMDBManagement_DMBS-project/tree/main#fmdbmanagement_dmbs-project
 
 cd your-repo
 
