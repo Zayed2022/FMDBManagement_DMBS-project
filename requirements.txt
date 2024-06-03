@@ -1,0 +1,6 @@
+streamlit==1.5.0
+mysql-connector-python==8.0.28
+speechrecognition==3.8.1
+matplotlib==3.5.1
+google==3.0.0
+python-dotenv==0.19.2
