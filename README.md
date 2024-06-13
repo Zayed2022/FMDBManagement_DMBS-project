@@ -29,6 +29,8 @@ pip install -r requirements.txt
 ### Set up environment variables:
 Create a .env file in the root directory.
 
+### run sql files
+
 ### Add your database credentials and Gemini API key:
 DB_HOST=localhost
 DB_USER=root
